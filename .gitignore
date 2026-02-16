@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.keras
+*.ipynb_checkpoints/
+.env
+venv/
+build/
+dist/
+*.egg-info/
+data/processed/
+data/interim/
